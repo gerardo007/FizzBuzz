@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace FizzBuzz
 {
+    //Using the anonymous delegates
 
     public delegate bool FizzBuzzComparison(int number);
 
