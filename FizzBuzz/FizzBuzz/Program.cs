@@ -52,7 +52,7 @@ namespace FizzBuzz
                 
                 if (int.TryParse(LowerNumber, out _lowerNumber))
                 {
-                    //Console.WriteLine("Thank you for entering: {0}", _lowerNumber);
+                    //Console.WriteLine("Thank you for entering: {0}", _lowerNumber):
                 }
                 else 
                 {
